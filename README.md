@@ -1,5 +1,5 @@
 # termux-ai
 Requirements
-termux-api
+termux-api,
 python
 
